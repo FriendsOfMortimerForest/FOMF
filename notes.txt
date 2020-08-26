@@ -5,3 +5,5 @@ So that's about 100 images.
 Using the simple CSS for responsive layout, the idea is to have this simple grid of all images.
 
 This can then be put into github fomf account and then it can be tested on mobile and desktop as a starting point that is retained as a repository.
+
+Reduced file sizes of images using Windows.
